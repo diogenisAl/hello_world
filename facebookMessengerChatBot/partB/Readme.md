@@ -1,6 +1,6 @@
 # Οδηγίες για το ομαδοσυνεργατικό τμήμα της άσκησης "Facebook Messenger Bot"
 
-- [x] Αντιγράψτε (**fork**) το παρόν repository στον λογαριασμό σας στο Github.
+- [x] Αντιγράψτε (**fork**) το repository [https://github.com/Mitato/fb-messenger-bot-partB](https://github.com/Mitato/fb-messenger-bot-partB) στον λογαριασμό σας στο Github.
 - [x] Στο αρχείο **[index.js](https://github.com/Mitato/fb-messenger-bot/blob/master/index.js)**, προσθέστε τον κώδικά σας που αφορά στις ερωτήσεις-απαντήσεις του chat bot της εργασίας σας.
 
 Παρακάτω φαίνεται ένα ενδεικτικό **παράδειγμα** του/της P20160000 με την προσθήκη 2 ερωτήσεων/απαντήσεων,
