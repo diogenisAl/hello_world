@@ -18,7 +18,7 @@
 - [x] Για περαιτέρω εμβάθυνση στον χώρο των messenger bots, μπορείτε να αξιοποιήσετε και εργαλεία όπως [https://api.ai/](https://api.ai/), [https://wit.ai/getting-started](https://wit.ai/getting-started) κ.λπ.
 
 Για το **Μέρος Β**:
-- [x] Ακολουθείστε τα βήματα όπως περιγράφονται αναλυτικά στο repository [https://github.com/Mitato/fb-messenger-bot](https://github.com/Mitato/fb-messenger-bot).
+- [x] Ακολουθείστε τα βήματα όπως περιγράφονται αναλυτικά στο [https://github.com/diogenisAl/std_projects/tree/master/facebookMessengerChatBot/partB/Readme.md](https://github.com/diogenisAl/std_projects/tree/master/facebookMessengerChatBot/partB/Readme.md).
 
 ## Αξιολόγηση
 * Η εφαρμογή λειτουργεί στα πλαίσια της παραπάνω θεματολογίας και υπάρχει αλληλεπίδραση στα ελληνικά σε τουλάχιστον 10 ερωτήσεις του χρήστη (**έως 6 μονάδες**).
