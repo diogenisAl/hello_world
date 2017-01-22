@@ -25,4 +25,4 @@
 
 **Προσοχή:** *Δεν θα πρέπει να διαγράψετε κάτι στο αρχείο index, ΜΟΝΟ να προσθέσετε τον κώδικά σας και τα στοιχεία που σας ζητούνται εντός σχολίων.*
 
-Το περιεχόμενο του αρχείου AFINN-translateToGreek165.txt με τις αγγλικές λέξεις, ανακτήθηκε από τον σύνδεσμο [https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt](https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt).
+Το περιεχόμενο του αρχείου AFINN-translateToGreek165.txt με τις αγγλικές λέξεις, ανακτήθηκε από τον σύνδεσμο: [https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt](https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt).
