@@ -1,7 +1,8 @@
 # Οδηγίες για το ομαδοσυνεργατικό τμήμα της άσκησης "Sentiment Analysis on Twitter"
 
 - [x] Αντιγράψτε (**fork**) στον λογαριασμό σας στο Github το repository που θα βρείτε στη διεύθυνση [https://github.com/Mitato/tweet-sentiment-analysis-globe-partB](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB).
-- [x] Στο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB/blob/master/AFINN-translateToGreek165.txt)**, προσθέστε τις μεταφρασμένες (στα ελληνικά) λέξεις (Το αρχείο με τις αγγλικές λέξεις, ανακτήθηκε από τον σύνδεσμο [https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt](https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt)).
+- [x] Στο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB/blob/master/AFINN-translateToGreek165.txt)**, προσθέστε τις μεταφρασμένες (στα ελληνικά) λέξεις.
+(Το αρχείο με τις αγγλικές λέξεις, ανακτήθηκε από τον σύνδεσμο [https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt](https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt)).
 
 Παρακάτω φαίνεται ένα ενδεικτικό **παράδειγμα** του/της P20160000 με την προσθήκη 2 ερωτήσεων/απαντήσεων,
 
