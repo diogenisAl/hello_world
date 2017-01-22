@@ -10,10 +10,6 @@
 accomplish 2
 accomplished 2
 accomplishes 2
-accomplishment 2
-accomplishments	2
-accusation -2
-accusations -2
 ```
 
 ### Μετά τη μετάφραση
@@ -23,22 +19,17 @@ accomplish 2
 ολοκληρώνω 2
 // P20160000 <Student-Name> <Student-Surname>
 accomplished 2
-// Starting: P20160000 <Student-Name> <Student-Surname>
+ολοκλήρωσα 2
+ολοκληρώθηκε 2
+// P20160000 <Student-Name> <Student-Surname>
 accomplishes 2
-// Starting: P20160000 <Student-Name> <Student-Surname>
-accomplishment 2
-// Starting: P20160000 <Student-Name> <Student-Surname>
-accomplishments	2
-// Starting: P20160000 <Student-Name> <Student-Surname>
-accusation -2
-// Starting: P20160000 <Student-Name> <Student-Surname>
-accusations -2
-// Starting: P20160000 <Student-Name> <Student-Surname>
+ολοκληρώνει 2
+// P20160000 <Student-Name> <Student-Surname>
 ```
 
 - [x] Όταν έχετε ολοκληρώσει το τμήμα του τελικού παραδοτέου που σας ζητείται σε αυτήν τη φάση της εργασίας, κάντε **pull request** με τίτλο τον Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
 
-**Προσοχή:***Δεν θα πρέπει να διαγράψετε κάτι στο αρχείο index, ΜΟΝΟ να προσθέσετε τον κώδικά σας και τα στοιχεία που σας ζητούνται εντός σχολίων.*
+**Προσοχή:** *Δεν θα πρέπει να διαγράψετε κάτι στο αρχείο index, ΜΟΝΟ να προσθέσετε τον κώδικά σας και τα στοιχεία που σας ζητούνται εντός σχολίων.*
 
 
 Το περιεχόμενο του αρχείου AFINN-translateToGreek165.txt με τις αγγλικές λέξεις ανακτήθηκε από τον σύνδεσμο: [https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt](https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt).
