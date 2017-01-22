@@ -1,7 +1,7 @@
 # Οδηγίες για το ομαδοσυνεργατικό τμήμα της άσκησης "Sentiment Analysis on Twitter"
 
-- [x] Αντιγράψτε (**fork**) στον λογαριασμό σας στο Github το repository που θα βρείτε στη διεύθυνση [https://github.com/Mitato/fb-messenger-bot-partB](https://github.com/Mitato/fb-messenger-bot-partB).
-- [x] Στο αρχείο **[index.js](https://github.com/Mitato/fb-messenger-bot/blob/master/index.js)**, προσθέστε τον κώδικά σας που αφορά στις ερωτήσεις-απαντήσεις του chat bot της εργασίας σας.
+- [x] Αντιγράψτε (**fork**) στον λογαριασμό σας στο Github το repository που θα βρείτε στη διεύθυνση [https://github.com/Mitato/tweet-sentiment-analysis-globe-partB](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB).
+- [x] Στο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB/blob/master/AFINN-translateToGreek165.txt)**, προσθέστε τις μεταφρασμένες (στα ελληνικά) λέξεις.
 
 Παρακάτω φαίνεται ένα ενδεικτικό **παράδειγμα** του/της P20160000 με την προσθήκη 2 ερωτήσεων/απαντήσεων,
 
@@ -24,5 +24,3 @@
 - [x] Όταν έχετε ολοκληρώσει το τμήμα του τελικού παραδοτέου που σας ζητείται σε αυτήν τη φάση της εργασίας, κάντε **pull request** με τίτλο τον Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
 
 **Προσοχή:** *Δεν θα πρέπει να διαγράψετε κάτι στο αρχείο index, ΜΟΝΟ να προσθέσετε τον κώδικά σας και τα στοιχεία που σας ζητούνται εντός σχολίων.*
-
-Υπενθυμίζουμε ότι ολόκληρος ο κώδικα της εργασίας σας θα πρέπει να είναι δημόσια διαθέσιμος και το link του να συμπεριλαμβάνεται σε κάθε παραδοτέο στον φάκελό σας στο repository του μαθήματος (courses-ionio/...).
