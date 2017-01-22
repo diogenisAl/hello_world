@@ -1,7 +1,7 @@
 # Οδηγίες για το ομαδοσυνεργατικό τμήμα της άσκησης "Sentiment Analysis on Twitter"
 
 - [x] Αντιγράψτε (**fork**) στον λογαριασμό σας στο Github το repository που θα βρείτε στη διεύθυνση [https://github.com/Mitato/tweet-sentiment-analysis-globe-partB](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB).
-- [x] Στο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB/blob/master/AFINN-translateToGreek165.txt)**, προσθέστε τις μεταφρασμένες (στα ελληνικά) λέξεις.
+- [x] Στο κατάλληλο αρχείο **AFINN-translateToGreek165** (ανάλογα με το μάθημα), προσθέστε τις μεταφρασμένες ελληνικές λέξεις.
 * Το σύνολο των μεταφρασμένων λέξεων θα πρέπει να είναι τουλάχιστον 50.
 * Προκειμένου να αποφευχθεί μεγάλος αριθμός μεταφράσεων σε λίγες λέξεις, προτείνουμε κάθε φοιτητής/τρια να επιλέγει τις προς μετάφραση λέξεις με βάση το αρχικό γράμμα του επωνύμου του/της.
 
