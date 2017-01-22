@@ -21,6 +21,7 @@
 - [x] Θα χρειαστείτε λογαριασμό στο **Twitter**.
 
 Για το **Μέρος Β**:
+- [x] Ακολουθείστε τα βήματα όπως περιγράφονται αναλυτικά στο [https://github.com/diogenisAl/std_projects/tree/master/tweetSentimentStreamGlobe/partB/](https://github.com/diogenisAl/std_projects/tree/master/tweetSentimentStreamGlobe/partB/).
 
 ## Αξιολόγηση
 * Η εφαρμογή λειτουργεί στα πλαίσια της παραπάνω θεματολογίας και υπάρχει αλληλεπίδραση στα ελληνικά σε τουλάχιστον 10 ερωτήσεις του χρήστη (**έως 6 μονάδες**).
