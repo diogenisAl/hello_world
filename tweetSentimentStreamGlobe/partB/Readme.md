@@ -2,7 +2,8 @@
 
 - [x] Αντιγράψτε (**fork**) στον λογαριασμό σας στο Github το repository που θα βρείτε στη διεύθυνση [https://github.com/Mitato/tweet-sentiment-analysis-globe-partB](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB).
 - [x] Στο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/Mitato/tweet-sentiment-analysis-globe-partB/blob/master/AFINN-translateToGreek165.txt)**, προσθέστε τις μεταφρασμένες (στα ελληνικά) λέξεις.
-
+* Το σύνολο των μεταφρασμένων λέξεων θα πρέπει να είναι τουλάχιστον 50.
+* Προκειμένου να αποφευχθεί μεγάλος αριθμός μεταφράσεων σε λίγες λέξεις, προτείνουμε κάθε φοιτητής/τρια να επιλέγει τις προς μετάφραση λέξεις με βάση το αρχικό γράμμα του επωνύμου 
 Παρακάτω φαίνεται ένα ενδεικτικό **παράδειγμα** του/της P20160000 πριν και μετά την προσθήκη των μεταφρασμένων λέξεων:
 ### Πριν τη μετάφραση
 
@@ -17,14 +18,14 @@ accomplishes 2
 ```javascript
 accomplish 2
 ολοκληρώνω 2
-// P20160000 <Student-Name> <Student-Surname>
+// P20160000 <Student-Name> <Α...Student-Surname>
 accomplished 2
 ολοκλήρωσα 2
 ολοκληρώθηκε 2
-// P20160000 <Student-Name> <Student-Surname>
+// P20160000 <Student-Name> <Α...Student-Surname>
 accomplishes 2
 ολοκληρώνει 2
-// P20160000 <Student-Name> <Student-Surname>
+// P20160000 <Student-Name> <Α..Student-Surname>
 ```
 
 - [x] Όταν έχετε ολοκληρώσει το τμήμα του τελικού παραδοτέου που σας ζητείται σε αυτήν τη φάση της εργασίας, κάντε **pull request** με τίτλο τον Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
