@@ -39,7 +39,21 @@
 Για το **Μέρος Α**:
 - [x] Δημιουργήστε μια νέα εφαρμογή στο [twitter](https://apps.twitter.com/).
 - [x] Θα χρειαστείτε να αξιοποιήσετε την πλατφόρμα **[PubNub](https://admin.pubnub.com/)** (είναι επίσης δωρεάν).
-- [x] Στο αποθετήριο που έχετε αντιγράψει στον λογαριασμό σας (βλ. προηγούμενα βήματα), αντικαταστήστε στο αρχείο **tweet-publisher/index.js** τις ετικέτες **TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET**, **TWITTER_ACCESS_TOKEN** και **TWITTER_TOKEN_SECRET** με τις τιμές των αντίστοιχων μεταβλητών της εφαρμογής στο **twitter** που δημιουργήσατε στο προηγούμενο βήμα και τις μεταβλητές **PUBNUB_PUBLISH_KEY** και **PUBNUB_SUBSCRIBE_KEY** με τις αντίστοιχες τιμές από το **PubNub**. Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές να μην είναι δημόσια. Μια καλή λύση θα ήταν μέσω της εφαρμογής που θα δημιουργήσετε στο **Heroku** στο επόμενο βήμα (**Settings** -> **Config Variables**).
+- [x] Στο αποθετήριο που έχετε αντιγράψει στον λογαριασμό σας (βλ. προηγούμενα βήματα), αντικαταστήστε στο αρχείο **tweet-publisher/index.js** τις ετικέτες **TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET**, **TWITTER_ACCESS_TOKEN** και **TWITTER_TOKEN_SECRET** με τις τιμές των αντίστοιχων μεταβλητών της εφαρμογής στο **twitter** που δημιουργήσατε στο προηγούμενο βήμα και τις μεταβλητές **PUBNUB_PUBLISH_KEY** και **PUBNUB_SUBSCRIBE_KEY** με τις αντίστοιχες τιμές από το **PubNub**.
+```javascript
+var twitter = TweetPublisher.twitter = new Twit({
+	consumer_key: nconf.get('TWITTER_CONSUMER_KEY'),
+	consumer_secret: nconf.get('TWITTER_CONSUMER_SECRET'),
+	access_token: nconf.get('TWITTER_ACCESS_TOKEN'),
+	access_token_secret: nconf.get('TWITTER_TOKEN_SECRET')
+});
+
+var pubnub = TweetPublisher.pubnub = Pubnub({
+	publish_key: nconf.get('PUBNUB_PUBLISH_KEY'),
+	subscribe_key: nconf.get('PUBNUB_SUBSCRIBE_KEY')
+});
+```
+**Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές να μην είναι δημόσια. Μια καλή λύση θα ήταν μέσω της εφαρμογής που θα δημιουργήσετε στο **Heroku** στο επόμενο βήμα (**Settings** -> **Config Variables**).
 - [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl
 - [x] Στην καρτέλα **Deploy**, συνδέστε την εφαρμογή που μόλις δημιουργήσατε με το repository που μεταφέρατε στο github και πατήστε το κουμπί **Deploy Branch** για να ανέβει ο κώδικας από το **github** στην εφαρμογή σας. Αυτλη η κίνηση θα πρέπει να γίνεται κάθε φορά που θα αλλάζετε κάτι στο github, προκειμένου να ενημερώνεται η εφαρμογή σας στο Heroku.
 - [x] Πατήστε το κουμπί **Open app** στο Dashboard της εφαρμογής σας στο Heroku και στην καρτέλα που ανοίγει εκτελείται η εφαρμογή σας.
