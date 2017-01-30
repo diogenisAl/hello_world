@@ -38,7 +38,7 @@
 
 Για το **Μέρος Α**:
 - [x] Δημιουργήστε μια νέα εφαρμογή στο [twitter](https://apps.twitter.com/).
-- [x] Θα χρειαστείτε να αξιοποιήσετε την πλατφόρμα **[PubNub](https://admin.pubnub.com/)** (είναι επίσης δωρεάν).
+- [x] Θα χρειαστείτε να αξιοποιήσετε την πλατφόρμα [PubNub](https://admin.pubnub.com/) (είναι επίσης δωρεάν).
 - [x] Στο αποθετήριο που έχετε αντιγράψει στον λογαριασμό σας (βλ. προηγούμενα βήματα), αντικαταστήστε στο αρχείο **tweet-publisher/index.js** τις ετικέτες **TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET**, **TWITTER_ACCESS_TOKEN** και **TWITTER_TOKEN_SECRET** με τις τιμές των αντίστοιχων μεταβλητών της εφαρμογής στο **twitter** που δημιουργήσατε στο προηγούμενο βήμα και τις μεταβλητές **PUBNUB_PUBLISH_KEY** και **PUBNUB_SUBSCRIBE_KEY** με τις αντίστοιχες τιμές από το **PubNub**.
 ```javascript
 var twitter = TweetPublisher.twitter = new Twit({
