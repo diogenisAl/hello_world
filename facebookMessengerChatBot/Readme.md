@@ -11,14 +11,6 @@
 **Ενσωματώστε** (fork/commit/pull request) τον κώδικα των ερωτήσεών σας στον ομαδικό κώδικα της εφαρμογής.
 
 ## Οδηγίες
-* Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/diogenisAl/twitter-stream-globe](https://github.com/diogenisAl/twitter-stream-globe) στον λογαριασμό σας.
-* Για κάθε παραδοτέο, θα πρέπει να δημιουργείτε ένα νέο κλαδί (**branch**) και στη συνέχεια να κάνετε ένα αίτημα ενσωμάτωσης (**pull request**) το οποίο θα συνοδεύεται από περιγραφικό τίτλο και σχόλιο.
-
-## Παραδοτέο 1
-* Δηλώστε τις παρεμβάσεις που θα κάνετε (π.χ. τα χρώματα που θα χρησιμοποιήσετε για να περιγράψετε τις διαβαθμίσεις των συναισθημάτων).
-* Δηλώστε τις λέξεις που θα μεταφράσετε από το αντίστοιχο αρχείο, λαμβάνοντας υπόψη τις δηλώσεις/δεσμεύσεις των υπόλοιπων συμφοιτητών σας.
-
-## Οδηγίες
 Για το **Μέρος Α**:
 - [x] Βήμα προς βήμα οδηγίες θα βρείτε εδώ: **[https://github.com/jw84/messenger-bot-tutorial](https://github.com/jw84/messenger-bot-tutorial)** 	(το 	οποίο βασίζεται στο [Node.js](https://nodejs.org/)), αλλά και σε σελίδες όπως το 	[https://developers.facebook.com/docs/messenger-platform/guides/quick-start](https://developers.facebook.com/docs/messenger-platform/guides/quick-start) κ.ά.
 - [ ] Εκτός από τα παραπάνω links, γενικότερες οδηγίες για εφαρμογές στο facebook μπορείτε να βρείτε εδώ: [https://developers.facebook.com/](https://developers.facebook.com/).
