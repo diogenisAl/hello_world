@@ -33,7 +33,7 @@
 * Γράψτε την τελική αναφορά της εργασίας σας.
 
 ## Διαδικασία (οδηγίες βήμα προς βήμα)
-- [ ] Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/diogenisAl/twitter-stream-globe](https://github.com/diogenisAl/twitter-stream-globe) στον λογαριασμό σας.
+- [x] Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/diogenisAl/twitter-stream-globe](https://github.com/diogenisAl/twitter-stream-globe) στον λογαριασμό σας.
 - [ ] Για κάθε παραδοτέο, θα πρέπει να δημιουργείτε ένα νέο κλαδί (**branch**) και στη συνέχεια να κάνετε ένα αίτημα ενσωμάτωσης (**pull request**) το οποίο θα συνοδεύεται από περιγραφικό τίτλο και σχόλιο.
 
 Για το **Μέρος Α**:
