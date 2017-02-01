@@ -53,8 +53,9 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 });
 ```
 **Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές να μην είναι δημόσια. Μια καλή λύση θα ήταν μέσω της εφαρμογής που θα δημιουργήσετε στο **Heroku** στο επόμενο βήμα (**Settings** -> **Config Variables**).
+**Βήμα 1**
 ![herokuConfigp1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
-και
+**Βήμα 2**
 ![herokuConfigp2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe081.jpg)
 
 - [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl
