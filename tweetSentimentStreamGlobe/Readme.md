@@ -32,7 +32,7 @@
 * Μεταφέρετε την τελική αναφορά της εργασίας σας.
 
 ## Διαδικασία (οδηγίες βήμα προς βήμα)
-- [x] Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/diogenisAl/twitter-stream-globe](https://github.com/diogenisAl/twitter-stream-globe) στον λογαριασμό σας.
+- [x] Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/ioniodi/twitter-stream-globe](https://github.com/ioniodi/twitter-stream-globe) στον λογαριασμό σας.
 ![forkRepository](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe00.png)
 - [ ] Για κάθε παραδοτέο, θα πρέπει να δημιουργείτε ένα νέο κλαδί (**branch**) και στη συνέχεια, αφότου έχετε ετοιμάσει το παραδοτέο, να κάνετε ένα αίτημα ενσωμάτωσης (**pull request**) το οποίο θα συνοδεύεται από περιγραφικό τίτλο και σχόλιο. Στο κάθε σχόλιο θα πρέπει να αναφέρεται τουλάχιστον ο Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
 ![forkRepository](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe01.png)
