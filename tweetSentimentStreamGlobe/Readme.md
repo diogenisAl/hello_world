@@ -53,6 +53,7 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 });
 ```
 **Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές να μην είναι δημόσια. Μια καλή λύση θα ήταν μέσω της εφαρμογής που θα δημιουργήσετε στο **Heroku** στο επόμενο βήμα (**Settings** -> **Config Variables**).
+
 **Βήμα 1**
 ![herokuConfigp1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
 **Βήμα 2**
