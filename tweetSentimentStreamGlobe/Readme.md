@@ -33,10 +33,10 @@
 
 
 ## Διαδικασία (οδηγίες βήμα προς βήμα)
-- [x] Δημιουργήστε ένα αντίγραφο του αποθετηρίου:
+- [x] Δημιουργήστε στον github λογαριασμό σας ένα αντίγραφο του αποθετηρίου:
 * Για τους φοιτητές του μαθήματος **Τεχνολογία Λογισμικού (SW)**: [https://github.com/ioniodi/SW-twitter-stream-globe](https://github.com/ioniodi/SW-twitter-stream-globe).
 * Για τους φοιτητές του μαθήματος **Κινητά και Κοινωνικά Μέσα (CSCW)**: [https://github.com/courses-ionio/CSCW-twitter-stream-globe](https://github.com/courses-ionio/CSCW-twitter-stream-globe).
-στον github λογαριασμό σας.
+
 ![forkRepository](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe00.png)
 - [x] Δημιουργήστε **4 branches**, ένα για κάθε παραδοτέο.
 - [ ] Για κάθε παραδοτέο, θα πρέπει να έχετε δημιουργήσει ένα νέο κλαδί (**branch**) και στη συνέχεια, αφότου έχετε ετοιμάσει το παραδοτέο, να κάνετε ένα αίτημα ενσωμάτωσης (**pull request**). Το αίτημα ενσωμάτωσης θα συνοδεύεται από περιγραφικό τίτλο και σχόλιο. Στο κάθε σχόλιο θα πρέπει να αναφέρεται τουλάχιστον ο Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
