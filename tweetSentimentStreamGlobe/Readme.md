@@ -31,7 +31,9 @@
 
 ## Διαδικασία (οδηγίες βήμα προς βήμα)
 - [x] Δημιουργήστε ένα αντίγραφο του αποθετηρίου [https://github.com/diogenisAl/twitter-stream-globe](https://github.com/diogenisAl/twitter-stream-globe) στον λογαριασμό σας.
+![forkRepository](/screenshots/odigiesTwitterSentimentGlobe00.png)
 - [ ] Για κάθε παραδοτέο, θα πρέπει να δημιουργείτε ένα νέο κλαδί (**branch**) και στη συνέχεια, αφότου έχετε ετοιμάσει το παραδοτέο, να κάνετε ένα αίτημα ενσωμάτωσης (**pull request**) το οποίο θα συνοδεύεται από περιγραφικό τίτλο και σχόλιο. Στο κάθε σχόλιο θα πρέπει να αναφέρεται τουλάχιστον ο Α.Μ. και το ονομετεπώνυμό σας (όλα με λατινικούς χαρακτήρες).
+![forkRepository](/screenshots/odigiesTwitterSentimentGlobe01.png)
 
 Για το **Μέρος Α**:
 - [x] Δημιουργήστε μια νέα εφαρμογή στο [twitter](https://apps.twitter.com/).
