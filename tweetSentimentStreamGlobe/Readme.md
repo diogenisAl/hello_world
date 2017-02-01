@@ -52,7 +52,11 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 	subscribe_key: nconf.get('PUBNUB_SUBSCRIBE_KEY')
 });
 ```
-
+Συγκεκριμένα για την πλατφρμα PubNub, για να βρείτε τις τιμές των 2 παραπάνω μεταβλητών ακολουθήστε τα εξής βήματα:
+**Βήμα 1**
+![pubnub1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe09.png)
+**Βήμα 2**
+![pubnub2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe10.png)
 - [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl.
 - [x] Δημιουργήστε μια νέα εφαρμογή.
 ![herokuapps](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe02.png)
