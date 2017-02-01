@@ -64,7 +64,10 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 **Βήμα 2**
 ![herokuConfigp2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe081.jpg)
 
-- [x] Στην καρτέλα **Deploy**, συνδέστε την εφαρμογή που μόλις δημιουργήσατε με το repository που μεταφέρατε στο github και πατήστε το κουμπί **Deploy Branch** για να ανέβει ο κώδικας από το **github** στην εφαρμογή σας. Αυτλη η κίνηση θα πρέπει να γίνεται κάθε φορά που θα αλλάζετε κάτι στο github, προκειμένου να ενημερώνεται η εφαρμογή σας στο Heroku.
+- [x] Στην καρτέλα **Deploy**, συνδέστε την εφαρμογή που μόλις δημιουργήσατε με το repository που μεταφέρατε στο github (επεξεργαστείτε το πεδίο **Connect to GitHub**).
+![herokudeploy1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe05.png)
+- [x] Πατήστε το κουμπί **Deploy Branch** για να ανέβει ο κώδικας από το **github** στην εφαρμογή σας. Αυτή η κίνηση θα πρέπει να γίνεται κάθε φορά που θα αλλάζετε κάτι στο github, προκειμένου να ενημερώνεται η εφαρμογή σας στο Heroku.
+![herokudeploy1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe06.png)
 - [x] Πατήστε το κουμπί **Open app** στο Dashboard της εφαρμογής σας στο Heroku και στην καρτέλα που ανοίγει εκτελείται η εφαρμογή σας.
 
 Για το **Μέρος Β**:
