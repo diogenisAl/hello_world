@@ -59,7 +59,7 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 ![pubnub1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe09.png)
 **Βήμα 2**
 ![pubnub2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe10.png)
-- [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl.
+- [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/). Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github [https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl.
 - [x] Δημιουργήστε μια νέα εφαρμογή.
 ![herokuapps](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe02.png)
 
