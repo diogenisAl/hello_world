@@ -52,14 +52,18 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 	subscribe_key: nconf.get('PUBNUB_SUBSCRIBE_KEY')
 });
 ```
-**Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές να μην είναι δημόσια. Μια καλή λύση θα ήταν μέσω της εφαρμογής που θα δημιουργήσετε στο **Heroku** στο επόμενο βήμα (**Settings** -> **Config Variables**).
+
+- [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl.
+- [x] Δημιουργήστε μια νέα εφαρμογή.
+![herokuapps](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe02.png)
+
+**Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές που περιγράψαμε παραπάνω (**TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET** κ.λπ.) να μην είναι δημόσια. Μια καλή λύση θα ήταν να τις αποκρύψετε από τη δημόσια θέα στο **github** μέσω της εφαρμογής που μόλις δημιουργήσατε στο **Heroku** (**Settings** -> **Config Variables**).
 
 **Βήμα 1**
 ![herokuConfigp1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
 **Βήμα 2**
 ![herokuConfigp2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe081.jpg)
 
-- [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/) και δημιουργήστε μια νέα εφαρμογή. Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github 	[https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl
 - [x] Στην καρτέλα **Deploy**, συνδέστε την εφαρμογή που μόλις δημιουργήσατε με το repository που μεταφέρατε στο github και πατήστε το κουμπί **Deploy Branch** για να ανέβει ο κώδικας από το **github** στην εφαρμογή σας. Αυτλη η κίνηση θα πρέπει να γίνεται κάθε φορά που θα αλλάζετε κάτι στο github, προκειμένου να ενημερώνεται η εφαρμογή σας στο Heroku.
 - [x] Πατήστε το κουμπί **Open app** στο Dashboard της εφαρμογής σας στο Heroku και στην καρτέλα που ανοίγει εκτελείται η εφαρμογή σας.
 
