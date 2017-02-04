@@ -41,7 +41,7 @@
 ### Υπενθύμιση: Μετά από τη ολοκλήρωση του κάθε παραδοτέου, φροντίστε να κάνετε **pull request** προκειμένου οι αλλαγές σας να εγκριθούν και να ενσωματωθούν στο master branch (υπό την προϋπόθεση ότι δεν θα προκύψει κάποιο conflict).
 
 ## Διαδικασία (οδηγίες βήμα προς βήμα)
-- [x] Δημιουργήστε στον github λογαριασμό σας ένα αντίγραφο του αποθετηρίου: [https://github.com/ioniodi/SW-twitter-stream-globe](https://github.com/ioniodi/SW-twitter-stream-globe).
+- [x] Δημιουργήστε στον github λογαριασμό σας ένα αντίγραφο του αποθετηρίου: [https://github.com/ioniodi/twitter-stream-globe](https://github.com/ioniodi/twitter-stream-globe).
 
 ![forkRepository](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe00.png)
 
