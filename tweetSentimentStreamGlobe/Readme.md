@@ -1,6 +1,6 @@
 ![Ιόνιο Πανεπιστήμιο](../logo-ionio-black-150x150.jpg)
 
-# Sentiment Analysis on Twitter
+# Sentiment Analysis on Twitter!
 
 ## Πρόλογος
 Η συγκεκριμένη άσκηση περιλαμβάνει:
